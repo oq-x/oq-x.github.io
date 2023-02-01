@@ -1,0 +1,16 @@
+{
+  "name": "oqammPro!!!!!!!!!!!!!!!!",
+  "identifier": "com.oqammPro.oqammPro",
+  "sourceURL": "https://apps.oqammpro.pro",
+  "news": [
+    {
+      "title": "Big thanks for oqammx86 for being such a cool person",
+      "identifier": "oqammispro",
+      "caption": "He really is cool!!!!!!!!!!",
+      "tintColor": "A405FA",
+      "url": "https://wiki.sidestore.io",
+      "date": "2050-01-02",
+      "notify": false
+    }
+  ]
+}
